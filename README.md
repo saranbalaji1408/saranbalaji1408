@@ -65,7 +65,3 @@ I'm a Frontend Engineer at **[AnywhereWorks](https://anywhere.co)**, where I bui
 ---
 
 ---
-
-<p align="center">
-  <em>Open to senior frontend / full-stack roles · DM me on GitHub or connect via email</em>
-</p>
