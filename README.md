@@ -64,16 +64,6 @@ I'm a Frontend Engineer at **[AnywhereWorks](https://anywhere.co)**, where I bui
 
 ---
 
-## 📌 Highlights
-
-- Shipped multi-brand **OAuth + email login flows** supporting ServiceForge, AnswerConnect, SignMore and more
-- Implemented **per-user emoji reactions** with optimistic UI updates across a real-time chat platform
-- Architected a **micro-frontend shell** that federates 10+ independently deployed apps with zero-downtime deploys
-- Migrated critical auth screens to a new **Astro + Vite** stack with full parity to the legacy JSP implementation
-- Designed and implemented **shared component packages** adopted across multiple microfrontend teams
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
