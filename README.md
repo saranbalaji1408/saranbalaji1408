@@ -64,13 +64,6 @@ I'm a Frontend Engineer at **[AnywhereWorks](https://anywhere.co)**, where I bui
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranbalaji1408&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranbalaji1408&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
 ---
 
 <p align="center">
