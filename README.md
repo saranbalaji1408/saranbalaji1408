@@ -17,7 +17,7 @@
 
 ## 🚀 What I Work On
 
-I'm a Frontend Engineer at **[AnywhereWorks](https://anywhere.co)**, where I build and maintain a large-scale micro-frontend platform used by thousands of businesses worldwide. My day-to-day spans React/TypeScript feature work, backend Java Spring MVC APIs, CI/CD pipelines, and design system integration.
+I'm a Software Engineer at **[AnywhereWorks](https://anywhere.co)**, where I build and maintain a large-scale micro-frontend platform used by thousands of businesses worldwide. My day-to-day spans React/TypeScript feature work, backend Java Spring MVC APIs, CI/CD pipelines, and design system integration.
 
 - 🔧 Building micro-frontend architecture with **Webpack 5 Module Federation**
 - ⚛️ Shipping product features in **React + TypeScript** with Redux state management
