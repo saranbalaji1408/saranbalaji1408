@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saranbalaji 👋</h1>
 
 <p align="center">
-  <strong>Frontend Engineer</strong> · TypeScript · React · Java · Building scalable product experiences
+  <strong>Software Engineer</strong> · TypeScript · React · Java · Building scalable product experiences
 </p>
 
 <p align="center">
