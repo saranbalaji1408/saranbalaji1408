@@ -36,6 +36,7 @@ I'm a Software Engineer at **[AnywhereWorks](https://anywhere.co)**, where I bui
 - 🤖 Agentic engineering with **Claude**, **Antigravity**, and other LLMs in the daily loop
 - 🛠️ Tailor-made **AI skills** for architecture design, feature builds, and bug fixes — collapsing multi-hour workflows into single-command runs
 - 🔌 Wiring **MCP** integrations across issue tracking, error monitoring, design and browser automation, including custom MCP servers for internal data
+- 🌲 Multitasking across parallel **git worktrees** — several tickets checked out at once, each driven by its own agentic CLI session, no stashing or branch-switching
 
 ---
 
@@ -86,6 +87,7 @@ I'm a Software Engineer at **[AnywhereWorks](https://anywhere.co)**, where I bui
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Git Worktrees](https://img.shields.io/badge/Git_Worktrees-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Observability
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
